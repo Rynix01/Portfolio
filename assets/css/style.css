@@ -408,7 +408,8 @@ header ul li:hover a {
   }
   #services .content,
   #portfolio .content,
-  #contact .content {
+  #contact .content,
+  #technologies .content {
     grid-template-columns: repeat(1, 1fr);
   }
   #contact .content a {
