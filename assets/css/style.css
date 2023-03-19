@@ -169,10 +169,12 @@ header ul li:hover a {
   flex-direction: column;
   gap: 20px;
   border: 2px solid #2e2f34;
+  transition: 0.5s;
 }
 
 #portfolio .content .servicesBx:hover {
   border: 2px solid #30fe6c;
+  transition: 0.5s;
 }
 
 #portfolio .content .servicesBx img {
@@ -219,10 +221,12 @@ header ul li:hover a {
   flex-direction: column;
   gap: 20px;
   border: 2px solid #34353a;
+  transition: 0.5s;
 }
 
 #services .content .servicesBx:hover {
   border: 2px solid #30fe6c;
+  transition: 0.5s;
 }
 
 #services .content .servicesBx img {
